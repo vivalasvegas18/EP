@@ -45,4 +45,5 @@ git merge origin/master
 test "$?" "Git merge origin";
 
 echo -n
+echo -n
 echo + GIT DONE.
