@@ -6,13 +6,13 @@ function test(){
     local status="$1";
     local name="$2";
 
-    if [ "$2" == "0" ] ; then
+    if [ "$status" == "0" ] ; then
         echo "";
-        echo "  The process [$1] finish ok.";
+        echo "  The process [$name] finish ok.";
         echo "";
     else
         echo "";
-        echo "  The process [$1] FAILS.";
+        echo "  The process [$name] FAILS.";
         echo "";
         exit 1;
     fi
