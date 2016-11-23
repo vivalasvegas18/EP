@@ -1,0 +1,16 @@
+Doc:
+Once you have access to the EP resources, all documentation is stored in the folders S:\SILA-Commun\Projets\Trilogue
+Confluence:
+The e-Parliament Confluence pages are in http://www.evol2wiki.ep.parl.union.eu/wiki/display/eparliament/eParliament+Program
+The JIRA project is TRILOEDIT
+(I have ask for access in Confluence and JIRA but it may take a couple of days)
+
+Conciliation comity:
+http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C:2016:202:FULL&from=EN
+Rules of Procedure:
+http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//NONSGML+RULES-EP+20160915+0+DOC+PDF+V0//EN&language=EN
+
+
+Mockups:
+https://collaborate.uxpin.com/2e59c869eba39fc99618ceb04b0d483158f8ba1c#/pages/52839755
+Mockups-Old: https://collaborate.uxpin.com/578f11504e35a8d4b7374d958e32c005a6921fa3#/pages/20626120
