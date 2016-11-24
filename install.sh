@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 pwd ;
 
 function test(){
@@ -17,6 +18,10 @@ function test(){
         exit 1;
     fi
 }
+
+# git remote set-url origin git@github.com:username/repo.git
+# git config remote.origin.url https://vivalasvegas18:Fortuna18@github.com/eric/myproject
+# git remote -v 
 
 echo "+"
 echo "+ Cleaning ...."
