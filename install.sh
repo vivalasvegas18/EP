@@ -20,7 +20,7 @@ function test(){
 }
 
 # git remote set-url origin git@github.com:username/repo.git
-# git config remote.origin.url https://vivalasvegas18:Fortuna18@github.com/eric/myproject
+# git config remote.origin.url https://vivalasvegas18:Fortuna18@github.com/vivalasvegas18/EP
 # git remote -v 
 
 echo "+"
