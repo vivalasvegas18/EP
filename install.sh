@@ -23,6 +23,8 @@ function test(){
 # git config remote.origin.url https://vivalasvegas18:Fortuna18@github.com/vivalasvegas18/EP
 # git remote -v 
 
+pushd "$HOME/Google Drive/angelventura.bruselas.2/02-Projects/EP/"
+
 echo "+"
 echo "+ Cleaning ...."
 find . -name \*~ -print -exec rm -rf {} \;
@@ -52,3 +54,5 @@ test "$?" "Git merge origin";
 echo -n
 echo -n
 echo + GIT DONE.
+
+popd;
