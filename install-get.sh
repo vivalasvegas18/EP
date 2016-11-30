@@ -28,6 +28,7 @@ pushd "$HOME/Google Drive/angelventura.bruselas.2/02-Projects/EP/"
 echo "+"
 echo "+ Cleaning ...."
 find . -name \*~ -print -exec rm -rf {} \;
+find . -name .DS_Store -print -exec rm -rf {} \;
 
 
 echo + Git fetch origin
