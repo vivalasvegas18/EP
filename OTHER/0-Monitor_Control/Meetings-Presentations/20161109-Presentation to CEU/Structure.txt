@@ -1,0 +1,5 @@
+Split the presentation in two parts
+
+1st part is the overview for the Business to present the workflow/ Business process and the components (applications) involved
+CAn use the existing ppt of "Components presentation" updating slide 1-7 and maintaining slides 8-13 as is.
+2nd part, probably no presentation is needed. Extracting  information on the components from the DTA should be enough. Need to have a meeting to clarify possible questions of the CEU IT
